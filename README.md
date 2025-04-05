@@ -7,7 +7,7 @@
 ### 1. Начало работы
 - [📲 Установка приложения](content/1_getting_started/1_installation.md)
 - [👤 Регистрация аккаунта](content/1_getting_started/2_registration.md)
-- [🏨 Первое бронирование](content/1_getting_started/3_first%20booking.md)  
+- [🏨 Первое бронирование](content/1_getting_started/3_first_booking.md)  
 
 ### 2. Основные функции
 - [🔍 Поиск отелей](content/2_features/1_search.md)
